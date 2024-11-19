@@ -1,0 +1,32 @@
+body {
+    background-color: #f8bbd0; /* Fond rose clair */
+  }
+  
+  .register-form {
+    max-width: 400px;
+    margin: 50px auto;
+    padding: 30px;
+    background-color: white;
+    border-radius: 10px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  .register-form h2 {
+    color: #e91e63; /* Titre rose foncé */
+    text-align: center;
+    margin-bottom: 30px;
+  }
+  
+  .form-control {
+    border-color: #e91e63;
+  }
+  
+  .btn-primary {
+    background-color: #e91e63;
+    border-color: #e91e63;
+  }
+  
+  .btn-primary:hover {
+    background-color: #d81b60;
+    border-color: #d81b60;
+  }
